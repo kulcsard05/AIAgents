@@ -1613,23 +1613,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Dénes\\.nuget\\packages\\": {},
+    "C:\\Users\\kulcs\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Dénes\\source\\repos\\AiAgent\\AiAgent\\AiAgent.csproj",
+      "projectUniqueName": "C:\\Users\\kulcs\\source\\repos\\Kulcsar_Denes_back_end\\AIAgents\\AiAgent\\AiAgent.csproj",
       "projectName": "AiAgent",
-      "projectPath": "C:\\Users\\Dénes\\source\\repos\\AiAgent\\AiAgent\\AiAgent.csproj",
-      "packagesPath": "C:\\Users\\Dénes\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Dénes\\source\\repos\\AiAgent\\AiAgent\\obj\\",
+      "projectPath": "C:\\Users\\kulcs\\source\\repos\\Kulcsar_Denes_back_end\\AIAgents\\AiAgent\\AiAgent.csproj",
+      "packagesPath": "C:\\Users\\kulcs\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\kulcs\\source\\repos\\Kulcsar_Denes_back_end\\AIAgents\\AiAgent\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Dénes\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\kulcs\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],

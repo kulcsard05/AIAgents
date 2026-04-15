@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AiAgent")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6007e037f9dd6d11f887f8c566e16d5a76e44fb2")]
 [assembly: System.Reflection.AssemblyProductAttribute("AiAgent")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AiAgent")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

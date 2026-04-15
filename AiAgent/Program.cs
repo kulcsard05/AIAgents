@@ -53,6 +53,7 @@ namespace AiAgent
             // 4. Beállítjuk a szigorú paramétereket (Temperature = 0.1 a megbízhatóságért)
             var executionSettings = new OpenAIPromptExecutionSettings
             {
+
                 Temperature = 0.1,
                 ToolCallBehavior = ToolCallBehavior.AutoInvokeKernelFunctions // <--- Ez a varázslat!
             };
@@ -142,6 +143,8 @@ namespace AiAgent
     //plugins
     //----------------------------------------------------------------------------------
     // Ez a mi "Eszköztárunk" (Plugin), amit odaadunk az Agentnek.
+
+
     public class IpCheckerPlugin
     {
         [KernelFunction("CheckIpRisk")]
